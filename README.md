@@ -8,7 +8,7 @@ When you install opencv_contrib for opencv3.3, you may find an error that INTER_
 don't worry, you should change INTER_LINEAR_EXACT to INTER_LINEAR, then make again. It will work.
 
 OS : Ubuntu 17.04 64 bits.\
-Editor : VSCode It is exciting :->
+Editor : VSCode
 
 # How to use
 ```linux
@@ -18,4 +18,3 @@ make -j4
 ../bin/fastFeatures
 ```
 
-# Hope you will like it  
